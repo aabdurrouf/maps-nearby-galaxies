@@ -1,3 +1,3 @@
 
 
-![image1](ngc628_maps.eps)
+![image1](NGC628.png)
